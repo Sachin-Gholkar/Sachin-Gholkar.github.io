@@ -42,3 +42,17 @@ href="css/style.css"></head><body><header><h1>Sachin Gholkar</h1><p>MEng General
     margin-top: 20px;
 
 }
+
+.card {
+
+    background: white;
+
+    padding: 30px;
+
+    border-radius: 15px;
+
+    box-shadow: 0 5px 20px rgba(0, 0, 0, .1);
+
+    margin: 40px;
+
+}
