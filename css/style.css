@@ -10,3 +10,17 @@ href="css/style.css"></head><body><header><h1>Sachin Gholkar</h1><p>MEng General
     box-shadow: 0 2px 10px rgba(0, 0, 0, .08);
 
 }
+
+.hero {
+
+    height: 80vh;
+
+    display: flex;
+
+    justify-content: center;
+
+    align-items: center;
+
+    text-align: center;
+
+}
