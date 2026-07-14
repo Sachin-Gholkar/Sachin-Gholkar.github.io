@@ -24,3 +24,21 @@ href="css/style.css"></head><body><header><h1>Sachin Gholkar</h1><p>MEng General
     text-align: center;
 
 }
+
+.hero a {
+
+    background: #003366;
+
+    color: white;
+
+    padding: 15px 30px;
+
+    text-decoration: none;
+
+    border-radius: 8px;
+
+    display: inline-block;
+
+    margin-top: 20px;
+
+}
